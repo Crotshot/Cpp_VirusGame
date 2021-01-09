@@ -1,0 +1,15 @@
+﻿  Main.cpp
+c:\vs projects\virusgame\virusgame\main.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\vs projects\virusgame\virusgame\main.cpp(36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\vs projects\virusgame\virusgame\main.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\vs projects\virusgame\virusgame\main.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\vs projects\virusgame\virusgame\main.cpp(208): warning C4305: '-=': truncation from 'double' to 'float'
+c:\vs projects\virusgame\virusgame\main.cpp(329): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\vs projects\virusgame\virusgame\main.cpp(337): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\vs projects\virusgame\virusgame\main.cpp(372): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\vs projects\virusgame\virusgame\main.cpp(373): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  VirusGame.vcxproj -> C:\VS Projects\VirusGame\Debug\VirusGame.exe
